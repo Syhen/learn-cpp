@@ -1,0 +1,2 @@
+# compile
+clang++ -std=c++11 filename.cpp -o filename
